@@ -12,27 +12,28 @@ categories: 新規さん向け
 
 ### Fediverseとは？
 
-管理者が言うところの「連合」の原語。
+管理人が言うところの「連合」の原語。
 Mastodon等のソフトウェアで構築された個々のSNSが、互いに結ばれた、その全体をひとつのネットワークと考える概念。
 概念としての「インターネット」に似てますね。界隈でよく使われてます。
 
 ### キュアスタ！の独自用語は？
 
 こちら参照。
-[/curesta/新規さん向け/独自用語](/curesta/新規さん向け/独自用語)
+[/articles/独自用語](/articles/独自用語)
 
 ## デフォルトハッシュタグについて
 
 ### デフォルトハッシュタグとは？
 
 詳細はこちら。
-[/curesta/新規さん向け/precure_fun](/curesta/新規さん向け/precure_fun)
+[/articles/precure_fun](/articles/precure_fun)
 
 ### "#precure_fun" の由来は？
 
-[先代管理者](https://precure.ml/@precure)が`precure.ml` に何かあった時の保険の為に取ったドメイン、 `precure.fun` の名残です。
+[先代管理人](https://precure.ml/@precure)が`precure.ml` に何かあった時の保険の為に取ったドメイン、
+ `precure.fun` の名残です。
 
-## 管理者について
+## 管理人について
 
 ### 何者？
 
