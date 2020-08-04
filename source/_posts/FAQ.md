@@ -30,7 +30,7 @@ Mastodon等のソフトウェアで構築された個々のSNSが、互いに結
 
 ### "#precure_fun" の由来は？
 
-[先代管理人](https://precure.ml/@precure)が`precure.ml` に何かあった時の保険の為に取ったドメイン、
+[先代管理人](https://precure.ml/@precure)が `precure.ml` に何かあった時の保険の為に取ったドメイン、
  `precure.fun` の名残です。
 
 ## 管理人について
