@@ -1,6 +1,5 @@
 ---
 title: VPS
-date: 2019/05/26 06:09:27
 categories: インフラ
 ---
 
