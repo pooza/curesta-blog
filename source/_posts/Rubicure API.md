@@ -3,7 +3,7 @@ title: Rubicure API
 categories: ボット
 ---
 
-[@sue445](https://precure.ml/@sue445)さんが開発した、[RubicureAPI](https://github.com/sue445/rubicure_api)を提供しています。
+[@sue445](https://precure.ml/@sue445)さんが開発した、[Rubicure API](https://github.com/sue445/rubicure_api)を提供しています。
 
 https://rubicure.precure.ml/
 
