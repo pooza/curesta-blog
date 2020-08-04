@@ -17,7 +17,7 @@ categories: 作品
 
 
 ## メディア
-- ![2b1fe44c0ec1dbcb.png](https://precure.ml/image/media_attachments/files/000/409/418/original/2b1fe44c0ec1dbcb.png)
+- ![title.png](title.png)
 
 ## URL
 https://precure.ml/@nulluo/102259242899449271

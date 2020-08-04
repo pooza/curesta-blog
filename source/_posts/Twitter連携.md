@@ -40,7 +40,7 @@ Twitterに対し、公開キュア！のツイート（マルチポスト）を�
 - `Sign in with Twitter`ボタンをクリック。
 - 「現在の設定」にTwitter関連の設定が加わったことを確認し、設定終了。
 
-![スクリーンショット 2020-06-05 21.36.44.png](/attachment/5eda3d44298708058344742d)
+![操作](操作.png)
 
 ## 管理人・開発者むけの説明
 https://github.com/pooza/mulukhiya-toot-proxy/wiki/TweetHandler
