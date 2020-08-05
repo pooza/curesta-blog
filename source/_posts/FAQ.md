@@ -19,14 +19,14 @@ Mastodon等のソフトウェアで構築された個々のSNSが、互いに結
 ### キュアスタ！の独自用語は？
 
 こちら参照。
-[/articles/独自用語](/articles/独自用語)
+[独自用語](/articles/独自用語)
 
 ## デフォルトハッシュタグについて
 
 ### デフォルトハッシュタグとは？
 
 詳細はこちら。
-[/articles/precure_fun](/articles/precure_fun)
+[\#precure_fun](/articles/precure_fun)
 
 ### "#precure_fun" の由来は？
 
