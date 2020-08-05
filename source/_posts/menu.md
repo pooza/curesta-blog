@@ -1,5 +1,5 @@
 - [キュアスタ！](https://precure.ml/)
-- [HOME](/)
+- [お知らせ](/categories/お知らせ)
 
 #
 
