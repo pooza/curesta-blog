@@ -13,7 +13,7 @@ timezone: Asia/Tokyo
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://localhost:4000
+url: http://st.blog.precure.ml
 root: /
 permalink: articles/:title/
 permalink_defaults:
@@ -99,7 +99,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: 3-hexo
+theme: book
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
