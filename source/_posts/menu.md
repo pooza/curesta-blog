@@ -1,4 +1,3 @@
-- [キュアスタ！](https://precure.ml/)
 - [お知らせ](/categories/お知らせ)
 
 ## コミュニティ
@@ -24,3 +23,7 @@
 - [Rubicure API](https://rubicure.precure.ml/)
 - [管理人](/about)
 - [運営会社](https://www.b-shock.co.jp/)
+
+#
+
+- [キュアスタ！](https://precure.ml/)
