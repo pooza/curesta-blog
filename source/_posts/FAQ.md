@@ -26,7 +26,7 @@ Mastodon等のソフトウェアで構築された個々のSNSが、互いに結
 ### デフォルトハッシュタグとは？
 
 詳細はこちら。
-[\#precure_fun](/articles/precure_fun)
+[\#precure\_fun](/articles/precure_fun)
 
 ### "#precure_fun" の由来は？
 
