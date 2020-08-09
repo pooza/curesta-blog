@@ -1,7 +1,7 @@
 - [キュアスタ！](https://precure.ml/)
 - [お知らせ](/categories/お知らせ)
 
-#
+## コミュニティ
 
 - [新規さん向け](/categories/新規さん向け)
 - [実況](/categories/実況)
