@@ -9,5 +9,5 @@
 以下の記事が未作成。
 - 機能: NowPlaying
 - 機能: Amazon対応
-- 機能: Slack互換webhook
+- ~~機能: Slack互換webhook~~
 - 機能: クリッピング
