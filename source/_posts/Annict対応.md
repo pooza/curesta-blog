@@ -35,3 +35,6 @@ categories: 機能
 
 - モロヘイヤHOMEに戻り、認証コードを貼り付けて「認証」ボタン。
 - 「現在の設定」にAnnict関連の設定が加わったことを確認し、設定終了。
+
+## 詳細な説明
+https://github.com/pooza/mulukhiya-toot-proxy/wiki/Annict%E5%AF%BE%E5%BF%9C
