@@ -55,5 +55,6 @@ https://github.com/pooza/makoto
 
 ## 謝辞
 - アバターアイコンは[@nulluo](https://precure.ml/@nulluo)さんが描いてくれました。
+- プリキュアの誕生日等は、[@sue445](https://precure.ml/@sue445)さんが作成している[rubicure](https://github.com/sue445/rubicure)（からの[フォーク](https://github.com/pooza/rubicure)）から取得しています。
 
 ありがとうございます。
