@@ -1,0 +1,9 @@
+---
+title: NowPlaying
+date: 2020-08-17
+categories: お知らせ
+---
+
+NowPlaying（通称ナウプレ）について記事を書きました。
+長い運用歴がある既存機能ですが、利用される方は改めてご確認頂けると幸い。
+https://blog.precure.ml/articles/NowPlaying/
