@@ -23,7 +23,7 @@ categories: 機能
 - Spotify
 
 ### 技術的な詳細
-- https://github.com/pooza/mulukhiya-toot-proxy/wiki/ItunesURLHandler
+- https://github.com/pooza/mulukhiya-toot-proxy/wiki/ItunesNowplayingHandler
 - https://github.com/pooza/mulukhiya-toot-proxy/wiki/SpotifyNowplayingHandler
 
 ## URL指定
@@ -43,7 +43,7 @@ categories: 機能
 - Amazon Music 楽曲URL
 - Spotify 楽曲/アルバムのURL
 
-上記は概ね、同じ再生数で権利者に貢献できる額が多い順になっています。（2020年月現在）
+上記は概ね、同じ再生数で権利者に貢献できる額が多い順になっています。（2020年8月現在）
 曲紹介はアーティストへの応援も込めているはず。同じ曲が複数のサービスに存在する場合は、上記の優先順位での曲紹介をご検討頂けると幸いです。
 
 特にSpotifyは、曲数が豊富で使いやすいのは確かですが、アーティストへの貢献が最も少ないサービスです。
