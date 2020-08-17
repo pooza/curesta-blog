@@ -38,7 +38,7 @@ categories: 機能
 
 以下のURLに対応しています。
 
-- iTunes Store 楽曲/アルバムのURL
+- iTunes Store / Apple Music 楽曲/アルバムのURL
 - YouTube Music 楽曲URL
 - Amazon Music 楽曲URL
 - Spotify 楽曲/アルバムのURL
