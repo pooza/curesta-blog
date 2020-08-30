@@ -10,6 +10,7 @@
 
 ## サポート
 
+- [技術ネタ](/categories/技術ネタ)
 - [インフラ](/categories/インフラ)
 - [運用](/categories/運用)
 - [障害](/categories/障害)
