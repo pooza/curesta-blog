@@ -42,5 +42,5 @@ Twitterに対し、公開[キュア！](/articles/キュア！)のツイート�
 
 ![操作](操作.png)
 
-## 管理人・開発者むけの説明
+## 技術的な詳細
 https://github.com/pooza/mulukhiya-toot-proxy/wiki/TweetHandler
