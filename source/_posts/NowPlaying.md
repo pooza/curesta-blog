@@ -22,10 +22,6 @@ categories: 機能
 - iTunes Store / Apple Music
 - Spotify
 
-### 技術的な詳細
-- https://github.com/pooza/mulukhiya-toot-proxy/wiki/ItunesNowplayingHandler
-- https://github.com/pooza/mulukhiya-toot-proxy/wiki/SpotifyNowplayingHandler
-
 ## URL指定
 
 `#nowplaying https://music.apple.com/jp/album//1299587212?i=1299587213`
@@ -49,11 +45,13 @@ categories: 機能
 特にSpotifyは、曲数が豊富で使いやすいのは確かですが、アーティストへの貢献が最も少ないサービスです。
 また、プリキュア関連楽曲の公開を、短期間ですがやめていた時期があります。今後この様なことが度々起きるならば、曲紹介には使いづらい面があると管理人個人は感じます。
 
-### 技術的な詳細
-- https://github.com/pooza/mulukhiya-toot-proxy/wiki/ItunesURLNowplayingHandler
+## 技術的な詳細
 - https://github.com/pooza/mulukhiya-toot-proxy/wiki/AmazonURLNowplayingHandler
-- https://github.com/pooza/mulukhiya-toot-proxy/wiki/YouTubeURLNowplayingHandler
+- https://github.com/pooza/mulukhiya-toot-proxy/wiki/ItunesNowplayingHandler
+- https://github.com/pooza/mulukhiya-toot-proxy/wiki/ItunesURLNowplayingHandler
+- https://github.com/pooza/mulukhiya-toot-proxy/wiki/SpotifyNowplayingHandler
 - https://github.com/pooza/mulukhiya-toot-proxy/wiki/SpotifyURLNowplayingHandler
+- https://github.com/pooza/mulukhiya-toot-proxy/wiki/YouTubeURLNowplayingHandler
 
 
 
