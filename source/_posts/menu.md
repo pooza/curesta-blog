@@ -7,6 +7,7 @@
 - [作品](/categories/作品)
 - [ボット](/categories/ボット)
 - [機能](/categories/機能)
+- [管理人コラム](/categories/管理人コラム)
 
 ## サポート
 
