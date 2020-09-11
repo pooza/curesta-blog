@@ -1,5 +1,5 @@
 ---
-title: 宮本佳那子ソロライブ Song Party ♪ vol.7 ～カバー&カンツォーネ編～
+title: 宮本佳那子ソロライブ Song Party♪ vol.7 ～カバー&カンツォーネ編～
 date: 2019-08-24
 categories: ライブレポート
 ---

@@ -1,5 +1,5 @@
 ---
-title: 宮本佳那子ソロライブ “Song Party♪” vol.8
+title: 宮本佳那子ソロライブ Song Party♪ vol.8
 date: 2019-11-02
 categories: ライブレポート
 ---
