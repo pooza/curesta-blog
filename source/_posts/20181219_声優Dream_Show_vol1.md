@@ -6,6 +6,7 @@ categories: ライブレポート
 
 ## 開催概要
 - 日時 2018/12/19 19:30
+- 場所 [TheGLEE](http://theglee.jp/)
 - 出演
   - 宮本 佳那子(Vo)
   - 福山 沙織(Vo)
