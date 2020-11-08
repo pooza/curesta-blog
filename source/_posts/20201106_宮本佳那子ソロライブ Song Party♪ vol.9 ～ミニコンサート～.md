@@ -1,5 +1,5 @@
 ---
-title: 宮本佳那子ソロライブ Song Party ♪ vol.9 ～ミニコンサート～
+title: 宮本佳那子ソロライブ Song Party♪ vol.9 ～ミニコンサート～
 date: 2020-11-08
 categories: ライブレポート
 ---
@@ -12,7 +12,7 @@ https://ameblo.jp/kanakomiyamoto/entry-12636191915.html
 - 会場 [GRAPES KITASANDO](https://kitasando.grapes.tokyo/)
 - ネット配信あり
 
-## セットリスト
+## プログラム
 
 ### 笑顔のひだまり
 
