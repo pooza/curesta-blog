@@ -1,6 +1,6 @@
 ---
 title: VPS
-date: 2020-10-02
+date: 2020-11-23
 categories: インフラ
 ---
 
@@ -10,9 +10,9 @@ categories: インフラ
 
 - [さくらのVPS](https://vps.sakura.ad.jp/)
 - メモリ: 2GB
-- ストレージ: SSD 50GB
+- ストレージ: SSD 100GB
 - CPU: 3コア
-- OS: FreeBSD 12.1-RELEASE
+- OS: FreeBSD 12.2-RELEASE
 
 ### ボットサーバ
 
@@ -22,4 +22,4 @@ categories: インフラ
 - メモリ: 1GB
 - ストレージ: SSD 50GB
 - CPU: 2コア
-- OS: FreeBSD 12.1-RELEASE
+- OS: FreeBSD 12.2-RELEASE
