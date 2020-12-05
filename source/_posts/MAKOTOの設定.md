@@ -1,5 +1,6 @@
 ---
 title: MAKOTOの設定
+date: 2020-01-01
 categories: ボット
 ---
 

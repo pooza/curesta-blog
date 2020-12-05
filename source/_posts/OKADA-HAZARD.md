@@ -1,5 +1,6 @@
 ---
 title: OKADA HAZARD
+date: 2020-01-01
 categories: 作品
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: Rubicure API
+date: 2020-01-01
 categories: ボット
 ---
 

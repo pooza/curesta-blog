@@ -1,5 +1,6 @@
 ---
 title: モロヘイヤHOME
+date: 2020-01-01
 categories: 機能
 ---
 
