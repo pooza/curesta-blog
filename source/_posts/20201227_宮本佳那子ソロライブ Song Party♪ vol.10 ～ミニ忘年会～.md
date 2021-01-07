@@ -47,7 +47,7 @@ https://ameblo.jp/kanakomiyamoto/entry-12639648664.html
 
 - 「Yes！プリキュア5」 後期ED
 
-### ミラクルっと・Link Ring！
+### ミラクルっと♥Link Ring！
 
 - 「ヒーリングっど♥プリキュア」 前期ED
 - Machicoさんのカバー。
