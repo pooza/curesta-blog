@@ -1,6 +1,6 @@
 ---
 title: NowPlaying
-date: 2020-08-17
+date: 2021-03-30
 categories: 機能
 ---
 
@@ -36,14 +36,11 @@ categories: 機能
 
 - iTunes Store / Apple Music 楽曲/アルバムのURL
 - YouTube Music 楽曲URL
-- Amazon Music 楽曲URL
+- ~~Amazon Music 楽曲URL~~
 - Spotify 楽曲/アルバムのURL
 
 上記は概ね、同じ再生数で権利者に貢献できる額が多い順になっています。（2020年8月現在）
 曲紹介はアーティストへの応援も込めているはず。同じ曲が複数のサービスに存在する場合は、上記の優先順位での曲紹介をご検討頂けると幸いです。
-
-特にSpotifyは、曲数が豊富で使いやすいのは確かですが、アーティストへの貢献が最も少ないサービスです。
-また、プリキュア関連楽曲の公開を、短期間ですがやめていた時期があります。今後この様なことが度々起きるならば、曲紹介には使いづらい面があると管理人個人は感じます。
 
 ## 技術的な詳細
 - https://github.com/pooza/mulukhiya-toot-proxy/wiki/AmazonURLNowplayingHandler
@@ -52,6 +49,7 @@ categories: 機能
 - https://github.com/pooza/mulukhiya-toot-proxy/wiki/SpotifyNowplayingHandler
 - https://github.com/pooza/mulukhiya-toot-proxy/wiki/SpotifyURLNowplayingHandler
 - https://github.com/pooza/mulukhiya-toot-proxy/wiki/YouTubeURLNowplayingHandler
+- https://github.com/pooza/mulukhiya-toot-proxy/wiki/SongwhipNowplayingHandler
 
 
 

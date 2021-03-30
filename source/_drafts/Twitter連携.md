@@ -35,7 +35,7 @@ __現在、Twitter側から凍結されています。__ 復旧の見込みが�
 ### モロヘイヤHOME
 
 - [HOME](https://precure.ml/mulukhiya)を開く。
-- その端末で初めて[HOME](https://precure.ml/mulukhiya)を利用する場合は、[トークンの登録](https://precure.ml/mulukhiya/app/auth)（アプリケーションの認証）を最初に行うこと。
+- その端末で初めて[HOME](https://precure.ml/mulukhiya)を利用する場合は、[トークンの登録](https://precure.ml/mulukhiya/app/token)（アプリケーションの認証）を最初に行うこと。
 
 ### 環境設定画面
 

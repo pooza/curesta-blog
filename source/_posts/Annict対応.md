@@ -1,15 +1,14 @@
 ---
 title: Annict対応
-date: 2020-08-18
+date: 2021-03-30
 categories: 機能
 ---
 
 ## 機能概要
 
-- キュアスタ！のアカウントと[Annict](https://annict.jp)のアカウントの紐づけを行えます。
+- キュアスタ！のアカウントと[Annict](https://annict.jp)のアカウントの紐づけを行います。
 - [Annict](https://annict.jp)で、プリキュアや他のアニメの視聴記録（例えば「ヒーリングっど♥プリキュア 19話を観た」等）を行うことが出来ます。感想も書けますので、出来るだけ書くとよいと思います。
-- 数分後（最長5分）に、視聴記録のまとめが[キュア！](/articles/キュア！)されます。
-- ~~単話だけでなく、シリーズ全体（例えば「ふたりはプリキュア」）へのレビューも[キュア！](/articles/キュア！)出来る様にしたいです。~~ 対応済み。作品へのレビューも[キュア！](/articles/キュア！)されます。
+- 数分後（最長5分）に、視聴記録のまとめがトゥートされます。
 - 本文中に「ネタバレ」文字列を含むと、CWで[キュア！](/articles/キュア！)されます。（8/18追記）
 
 ## 設定の手順
@@ -21,7 +20,7 @@ categories: 機能
 ### モロヘイヤHOME
 
 - [HOME](https://precure.ml/mulukhiya)を開く。
-- その端末で初めて[HOME](https://precure.ml/mulukhiya)を利用する場合は、[トークンの登録](https://precure.ml/mulukhiya/app/auth)（アプリケーションの認証）を最初に行うこと。
+- その端末で初めて[HOME](https://precure.ml/mulukhiya)を利用する場合は、[トークンの登録](https://precure.ml/mulukhiya/app/token)（アプリケーションの認証）を最初に行うこと。
 
 ### 環境設定画面
 
@@ -39,3 +38,4 @@ categories: 機能
 
 ## 技術的な詳細
 https://github.com/pooza/mulukhiya-toot-proxy/wiki/Annict%E5%AF%BE%E5%BF%9C
+https://annict.jp/userland/projects/60
