@@ -22,7 +22,7 @@
 - [キュアスタ！を探索](https://precure.ml/explore)
 - [利用規約](https://precure.ml/terms)
 - [モロヘイヤHOME](https://precure.ml/mulukhiya)
-- [UptimeRobot](https://uptime.precure.ml/)
+- [UptimeRobot](https://stats.uptimerobot.com/G91rWs1KKq)
 - [Rubicure API](https://rubicure.precure.ml/)
 - [管理人](/about)
 - [運営会社](https://www.b-shock.co.jp/)
