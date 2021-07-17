@@ -1,6 +1,6 @@
 ---
 title: VPS
-date: 2020-11-23
+date: 2021-07-17
 categories: インフラ
 ---
 
@@ -12,7 +12,7 @@ categories: インフラ
 - メモリ: 2GB
 - ストレージ: SSD 100GB
 - CPU: 3コア
-- OS: FreeBSD 12.2-RELEASE
+- OS: FreeBSD 13.0-RELEASE
 
 ### ボットサーバ
 
