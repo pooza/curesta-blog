@@ -24,7 +24,7 @@ https://precure.b-shock.org/feed/v1.0/site/toei
 
 トークンが登録済みなら、「環境設定」画面にwebhookのURLがあるはずです。
 
-![手順5](手順5.png)
+{% asset_img 手順5.png %}
 
 画面にも赤字で書かれていますが、このURLは決して他人に教えてはいけません。たとえ相手が管理人であっても。
 
@@ -35,22 +35,22 @@ https://precure.b-shock.org/feed/v1.0/site/toei
 [IFTTT](https://ifttt.com/)の画面上で、[Create](https://ifttt.com/create)を実行します。
 `rss` 等の検索語で __RSS Feed__ トリガーを検索し、これを選択。
 
-![手順1](手順1.png)
+{% asset_img 手順1.png %}
 
 そして、先ほどのフィードURLを設定。
 AtomフィードもRSSの一種とみなされ、登録可能です。今さら野暮を言う様ですが。
 
-![手順2](手順2.png)
+{% asset_img 手順2.png %}
 
 ### アクション
 
 `webhook` 等の検索語で __Webhooks__ アクションを検索し、これを選択。
 
-![手順3](手順3.png)
+{% asset_img 手順3.png %}
 
 設定内容は、こんな感じ。
 
-![手順4](手順4.png)
+{% asset_img 手順4.png %}
 
 URLは、先ほど調べたwebhookのURL。
 Bodyには、たとえば以下の様なJSONを。

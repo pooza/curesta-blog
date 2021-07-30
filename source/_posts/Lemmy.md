@@ -33,19 +33,19 @@ Lemmyとキュアスタ！を一度連携させれば、それ以後、ブック
 キュアスタ！では、機能面で連携の予定のある[鴉は拠り所について語り合う](https://lm.korako.me/)の利用をお勧めしています。これ以降の説明も、このインスタンスを利用するものとして進めます。
 まずは、[鴉は拠り所について語り合う](https://lm.korako.me/)で[アカウントを登録](https://lm.korako.me/login)してください。（以下）
 
-![アカウント](account.png)
+{% asset_img account.png %}
 
 ## 個人用コミュニティ
 
 ブックマークの保存先となる、個人用の[コミュニティを作成](https://lm.korako.me/create_community)してください。
 キュアスタ！でブックマーク操作を行うと、Mastodon本来のブックマークとは別に、このLemmyコミュニティにもブックマークが溜まっていきます。
 
-![コミュニティ](community.png)
+{% asset_img community.png %}
 
 個人用コミュニティとは、何だか矛盾した響きですが。
 ここで、 __コミュニティID__ をメモしておくのを忘れないでください。
 
-![コミュニティ](create_link.png)
+{% asset_img create_link.png %}
 
 「投稿を作成」ボタンのURLで、 __コミュニティID__ が調べられます。
 
@@ -53,7 +53,7 @@ Lemmyとキュアスタ！を一度連携させれば、それ以後、ブック
 
 [モロヘイヤHOME](https://precure.ml/mulukhiya)を初めて利用する方は、最初に[トークンの登録](https://precure.ml/mulukhiya/app/token)を行ってください。もし済んでいたら、[環境設定](https://precure.ml/mulukhiya/app/config)仮面から設定を行います。
 
-![環境設定](mulukhiya.png)
+{% asset_img mulukhiya.png %}
 
 設定する項目は以下の4つ。
 

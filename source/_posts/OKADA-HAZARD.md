@@ -18,7 +18,7 @@ categories: 作品
 
 
 ## メディア
-- ![OKADA HAZARD](title.png)
+- {% asset_img title.png %}
 
 ## URL
 https://precure.ml/@nulluo/102259242899449271

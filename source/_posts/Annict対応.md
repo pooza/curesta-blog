@@ -27,11 +27,11 @@ categories: 機能
 - トークンが登録済みの場合は、[環境設定](https://precure.ml/mulukhiya/app/config)画面へ。
 - Annictの設定、「認証コードを取得」リンクをクリック。
 
-![HOME](HOME.png)
+{% asset_img HOME.png %}
 
 - Annictへのリンクが開くので、指示に従う。最後に表示される「認証コード」を手元のメモアプリ等に控える。
 
-![Annict認証コード](Annict認証.png)
+{% asset_img Annict認証.png %}
 
 - モロヘイヤHOMEに戻り、認証コードを貼り付けて「認証」ボタン。
 - 「現在の設定」にAnnict関連の設定が加わったことを確認し、設定終了。
