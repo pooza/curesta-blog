@@ -1,5 +1,5 @@
 ---
-title: 20191214 Google Public DNSがTLD .ml をキャッシュしない
+title: 2019/12/14 Google Public DNSがTLD .ml をキャッシュしない
 categories: 障害
 date: 2019/12/15
 ---
