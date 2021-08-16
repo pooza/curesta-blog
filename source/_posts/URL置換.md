@@ -11,7 +11,7 @@ categories: 機能
 - 詳細: [ShortenedURLHandler](https://github.com/pooza/mulukhiya-toot-proxy/wiki/ShortenedURLHandler)
 
 ## 日本語を含んだURLを正しいものに置換
-- 日本語を含んだURLは、[クライアント](/articles/クライアント)によっては、クリック/タップしても開くことが出来ない場合があります。同じ意味の日本語を含まない形式に置換すれば、どのクライアントでも開くことができる様になります。
+- 日本語を含んだURLは、クライアントによっては、クリック/タップしても開くことが出来ない場合があります。同じ意味の日本語を含まない形式に置換すれば、どのクライアントでも開くことができる様になります。
 - 詳細: [URLNormalizeHandler](https://github.com/pooza/mulukhiya-toot-proxy/wiki/URLNormalizeHandler)
 
 ## HTMLソース内にCanonical指定を含むページでは、そのURLに置換
