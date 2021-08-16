@@ -1,15 +1,15 @@
 ---
 title: VPS
-date: 2021-07-22
+date: 2021-08-16
 categories: インフラ
 ---
 
 ## Mastodonサーバ
 
-- [さくらのVPS](https://vps.sakura.ad.jp/)
+- [Vultr](https://www.vultr.com/products/cloud-compute/)
 - メモリ: 2GB
-- ストレージ: SSD 100GB
-- CPU: 3コア
+- ストレージ: SSD 55GB
+- CPU: 仮想コア×1
 - OS: FreeBSD 13.0-RELEASE
 
 ## 監視サーバ
@@ -29,7 +29,7 @@ categories: インフラ
 - [さくらのVPS](https://vps.sakura.ad.jp/)
 - メモリ: 1GB
 - ストレージ: SSD 50GB
-- CPU: 2コア
+- CPU: 仮想コア×2
 - OS: FreeBSD 12.2-RELEASE
 
 ## ボットサーバ2
