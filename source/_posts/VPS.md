@@ -1,15 +1,15 @@
 ---
 title: VPS
-date: 2021-08-16
+date: 2021-08-17
 categories: インフラ
 ---
 
 ## Mastodonサーバ
 
 - [Vultr](https://www.vultr.com/products/cloud-compute/)
-- メモリ: 2GB
+- メモリ: 4GB
 - ストレージ: SSD 55GB
-- CPU: 仮想コア×1
+- CPU: 仮想コア×2
 - OS: FreeBSD 13.0-RELEASE
 
 ## 監視サーバ
