@@ -16,7 +16,7 @@ https://ameblo.jp/kanakomiyamoto/entry-12639648664.html
 
 プリキュアソングは、断りがない限りFULLサイズ。
 
-### We can!! HUGっと!プリキュア
+### We can!! HUGっと！プリキュア
 
 - 「HUGっと！プリキュア」 OP
 
@@ -71,7 +71,7 @@ https://ameblo.jp/kanakomiyamoto/entry-12639648664.html
 
 ### ありがとうのうた
 
-- 「ありがとうのうた」より
+- アルバム「ありがとうのうた」より
 
 ### レッツ・ラ・クッキン ショータイム
 

@@ -24,7 +24,7 @@ https://ameblo.jp/kanakomiyamoto/entry-12675515518.html
 
 - 谷村有美のカバー
 
-### We can!! HUGっと!プリキュア
+### We can!! HUGっと！プリキュア
 
 - アカペラ、イントロのみ。
 

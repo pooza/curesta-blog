@@ -90,7 +90,7 @@ https://ameblo.jp/kanakomiyamoto/entry-12636191915.html
 - 「ドキドキ!プリキュア」劇中歌
 - アンコール分1
 
-### We can!! HUGっと!プリキュア
+### We can!! HUGっと！プリキュア
 
 - FULLサイズ
 - 「HUGっと!プリキュア」 OP

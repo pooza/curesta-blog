@@ -108,5 +108,5 @@ https://ameblo.jp/kanakomiyamoto/entry-12510876385.html
 ### 虹の彼方に
 - 「オズの魔法使い」劇中歌
 
-### We can!! HUGっと!プリキュア
+### We can!! HUGっと！プリキュア
 - 「HUGっと!プリキュア」OP
