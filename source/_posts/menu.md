@@ -4,7 +4,6 @@
 - [ボット](/categories/ボット)
 - [機能](/categories/機能)
 - [管理人コラム](/categories/管理人コラム)
-- [ライブレポート](/categories/ライブレポート)
 - [技術ネタ](/categories/技術ネタ)
 - [インフラ](/categories/インフラ)
 - [運用](/categories/運用)
