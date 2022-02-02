@@ -1,6 +1,6 @@
 ---
 title: MAKOTO
-date: 2021-05-21
+date: 2022-02-02
 categories: ボット
 ---
 
@@ -8,7 +8,7 @@ categories: ボット
 [@makoto](https://precure.ml/@makoto)
 
 紹介記事
-https://plume.korako.me/~/Articles/%E3%81%AA%E3%82%8A%E3%81%8D%E3%82%8A%E3%83%9C%E3%83%83%E3%83%88MAKOTO
+https://lm.korako.me/post/6526
 
 ## ソースコード
 
