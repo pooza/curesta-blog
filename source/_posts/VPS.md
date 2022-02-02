@@ -1,10 +1,12 @@
 ---
 title: VPS
-date: 2021-08-17
+date: 2022-02-02
 categories: インフラ
 ---
 
 ## Mastodonサーバ
+
+[MAKOTO](/articles/MAKOTO)の収容先も、今はここ。
 
 - [Vultr](https://www.vultr.com/products/cloud-compute/)
 - メモリ: 4GB
@@ -22,17 +24,7 @@ categories: インフラ
 - CPU: 仮想コア×1
 - OS: FreeBSD 13.0-RELEASE
 
-## ボットサーバ1
-
-[MAKOTO](/articles/MAKOTO)などを収容。
-
-- [さくらのVPS](https://vps.sakura.ad.jp/)
-- メモリ: 1GB
-- ストレージ: SSD 50GB
-- CPU: 仮想コア×2
-- OS: FreeBSD 12.2-RELEASE
-
-## ボットサーバ2
+## ボットサーバ
 
 [増子](https://precure.ml/@mikabot)などを収容。
 [管理人](https://precure.ml/@pooza)の自宅サーバです。スペック非公開。
