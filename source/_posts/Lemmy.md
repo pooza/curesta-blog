@@ -1,10 +1,10 @@
 ---
 title: Lemmy対応
-date: 2021-04-14
+date: 2022-05-16
 categories: 機能
 ---
 
-オープンソースのリンクアグリゲータ、[Lemmy](https://join.lemmy.ml/)に対応しました。
+オープンソースのリンクアグリゲータ、[Lemmy](https://join.lemmy.ml/)に対応しています。
 
 ## リンクアグリゲータとは？
 
@@ -25,10 +25,9 @@ Lemmyとキュアスタ！を一度連携させれば、それ以後、ブック
 
 ## Lemmyインスタンスを選ぶ
 
-国内のLemmyインスタンスは多くないようです。（他にもある？）
+国内のLemmyインスタンスは多くないようです。
 
 - [鴉は拠り所について語り合う](https://lm.korako.me/)
-- [Redmmy](https://lemmy.cardina1.red/)
 
 キュアスタ！では、機能面で連携の予定のある[鴉は拠り所について語り合う](https://lm.korako.me/)の利用をお勧めしています。これ以降の説明も、このインスタンスを利用するものとして進めます。
 まずは、[鴉は拠り所について語り合う](https://lm.korako.me/)で[アカウントを登録](https://lm.korako.me/login)してください。（以下）
@@ -43,23 +42,27 @@ Lemmyとキュアスタ！を一度連携させれば、それ以後、ブック
 {% asset_img community.png %}
 
 個人用コミュニティとは、何だか矛盾した響きですが。
-ここで、 __コミュニティID__ をメモしておくのを忘れないでください。
 
-{% asset_img create_link.png %}
-
-「投稿を作成」ボタンのURLで、 __コミュニティID__ が調べられます。
+また、 __コミュニティの「名前」を「ユーザー名」と同じものにしない様に__ 注意してください。Mastodonとの連携機能が全て誤動作します。
+例えば、`pooza`というユーザーの個人用コミュニティとして`pooza`という名前のコミュニティを作ることは避け、`pooza1`などの別の名前で登録する様にしてください。
 
 ## キュアスタ！からLemmyに接続
 
-[モロヘイヤHOME](https://precure.ml/mulukhiya)を初めて利用する方は、最初に[トークンの登録](https://precure.ml/mulukhiya/app/token)を行ってください。もし済んでいたら、[環境設定](https://precure.ml/mulukhiya/app/config)仮面から設定を行います。
+[モロヘイヤHOME](https://precure.ml/mulukhiya)を初めて利用する方は、最初に[トークンの登録](https://precure.ml/mulukhiya/app/token)を行ってください。
+もし済んでいたら、[環境設定](https://precure.ml/mulukhiya/app/config)仮面から設定を行います。
 
-{% asset_img mulukhiya.png %}
+{% asset_img mulukhiya1.png %}
 
-設定する項目は以下の4つ。
+設定する項目は以下の3つ。
 
-- __ホスト名__ ： [鴉は拠り所について語り合う](https://lm.korako.me/)のドメイン名、`lm.korako.me` を指定。
+- __URL__ ： [鴉は拠り所について語り合う](https://lm.korako.me/)のURL、`https://lm.korako.me` を指定。
 - __ユーザーID__ ：アカウント登録に使用したユーザーID、またはメールアドレス。
 - __パスワード__ ：同、パスワード。
-- __コミュニティID__ ：個人コミュニティを登録したときに調べたID。
 
+`更新`ボタンを押下。入力に誤りがなければ、保存先コミュニティが選択できるようになります。
+__コミュニティ選択まで行わなければ設定は完了しません__ ので、ご注意下さい。
+
+{% asset_img mulukhiya2.png %}
+
+コミュニティを選択して、もう一度`更新`ボタンを押下。
 ここまでの設定で、キュアスタ！で保存したブックマークがLemmyにも残せるようになります。
