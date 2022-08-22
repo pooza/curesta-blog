@@ -1,6 +1,6 @@
 ---
 title: VPS
-date: 2022-05-24
+date: 2022-08-23
 categories: インフラ
 ---
 
@@ -8,10 +8,10 @@ categories: インフラ
 
 [MAKOTO](/articles/MAKOTO)の収容先も、今はここ。
 
-- [Vultr](https://www.vultr.com/products/cloud-compute/)
+- [さくらのVPS](https://vps.sakura.ad.jp/)
 - メモリ: 4GB
-- ストレージ: SSD 55GB
-- CPU: 仮想コア×2
+- ストレージ: SSD 200GB
+- CPU: 仮想コア×4
 - OS: FreeBSD 13.1-RELEASE
 
 ## 監視サーバ
