@@ -832,9 +832,9 @@ mkdirp@~1.0.4:
   integrity sha512-vVqVZQyf3WLx2Shd0qJ9xuvqgAyKPLAiqITEtqW0oIUjzo3PePDd6fW9iFz30ef7Ysp/oiWqbhszeGWW2T6Gzw==
 
 moize@^6.1.0:
-  version "6.1.4"
-  resolved "https://registry.yarnpkg.com/moize/-/moize-6.1.4.tgz#8e79b62a4a0519229b013522ae27d1b00c0b0c2d"
-  integrity sha512-Ga8V0iu7XHDz6GR50pAaGjc3hJ5CVmWUgQRyWFAn4pYrBzITx9dMlXOGhURP2qmO3WTeOC9Yu17MlFV6PY2m/g==
+  version "6.1.5"
+  resolved "https://registry.yarnpkg.com/moize/-/moize-6.1.5.tgz#e9a589685a3de4266eeb5f2bbfdfe1a173265f1a"
+  integrity sha512-Fu46qKV9F8DOi2vXimR3yRw/JAJfFRQEFZeclvOFnG92AEFERqwFtu4PIxETYFtCghHGlU1itKcvvNioKgWGIw==
   dependencies:
     fast-equals "^3.0.1"
     micro-memoize "^4.0.11"
