@@ -1,6 +1,6 @@
 ---
 title: VPS
-date: 2023-06-30
+date: 2023-07-25
 categories: インフラ
 ---
 
@@ -12,16 +12,6 @@ categories: インフラ
 - メモリ: 4GB
 - ストレージ: SSD 200GB
 - CPU: 仮想コア×4
-- OS: FreeBSD 13.2-RELEASE
-
-## 監視サーバ
-
-[監視系](/articles/監視)を収容。
-
-- [Vultr](https://www.vultr.com/products/cloud-compute/)
-- メモリ: 1GB
-- ストレージ: SSD 25GB
-- CPU: 仮想コア×1
 - OS: FreeBSD 13.2-RELEASE
 
 ## ボットサーバ
