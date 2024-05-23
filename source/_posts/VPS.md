@@ -1,6 +1,6 @@
 ---
 title: VPS
-date: 2023-07-25
+date: 2024-05-24
 categories: インフラ
 ---
 
@@ -12,11 +12,11 @@ categories: インフラ
 - メモリ: 4GB
 - ストレージ: SSD 200GB
 - CPU: 仮想コア×4
-- OS: FreeBSD 13.2-RELEASE
+- OS: FreeBSD 13.3-RELEASE
 
 ## ボットサーバ
 
 [増子](https://precure.ml/@mikabot)などを収容。
 [管理人](https://precure.ml/@pooza)の自宅サーバです。スペック非公開。
 
-- OS: FreeBSD 13.2-RELEASE
+- OS: FreeBSD 13.3-RELEASE
