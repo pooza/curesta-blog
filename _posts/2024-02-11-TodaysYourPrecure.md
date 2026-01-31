@@ -3,7 +3,6 @@ title: Today's Your Precure
 date: 2024-02-11
 categories: 作品
 layout: post
-permalink: /articles/TodaysYourPrecure/
 ---
 ## きゅあすきー向け
 

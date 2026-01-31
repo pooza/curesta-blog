@@ -3,7 +3,6 @@ title: 2019/12/14 Google Public DNSがTLD .ml をキャッシュしない
 categories: 障害
 date: 2019-12-15
 layout: post
-permalink: /articles/20191214GooglePublicDNSがTLDmlをキャッシュしない/
 ---
 ## 発生時刻
 2019/12/14 19:00頃〜23:40
