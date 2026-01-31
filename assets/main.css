@@ -1,11 +1,11 @@
 :root {
-  --bg: #faf7f2;
-  --text: #1f1b16;
-  --muted: #6b6257;
-  --accent: #b06b2d;
-  --card: #ffffff;
-  --border: #e4ddd2;
-  --max: 880px;
+  --bg: #d8dbd6;
+  --text: #2f3230;
+  --muted: #6b716a;
+  --accent: #2ba13a;
+  --card: #f2f3f1;
+  --border: #c4c9c2;
+  --max: 1100px;
 }
 
 * {
@@ -14,7 +14,7 @@
 
 body {
   margin: 0;
-  font-family: "Hiragino Mincho ProN", "Hiragino Mincho Pro", "Yu Mincho", "Noto Serif JP", serif;
+  font-family: "Hiragino Kaku Gothic ProN", "Hiragino Kaku Gothic Pro", "Yu Gothic", "Noto Sans JP", sans-serif;
   background: var(--bg);
   color: var(--text);
   line-height: 1.8;
@@ -23,15 +23,15 @@ body {
 .wrap {
   max-width: var(--max);
   margin: 0 auto;
-  padding: 24px;
+  padding: 18px;
 }
 
-.site-header {
+.topbar {
   border-bottom: 1px solid var(--border);
-  background: linear-gradient(120deg, #f7efe3, #fff8ed);
+  background: #e7e9e5;
 }
 
-.header-inner {
+.topbar-inner {
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -39,25 +39,27 @@ body {
 }
 
 .site-title {
-  font-size: 1.5rem;
+  font-size: 1.1rem;
   color: var(--text);
   text-decoration: none;
-  font-weight: 600;
+  font-weight: 700;
 }
 
 .site-nav a {
-  margin-left: 12px;
+  margin-left: 10px;
   text-decoration: none;
   color: var(--muted);
-  font-size: 0.95rem;
+  font-size: 0.9rem;
 }
 
 .site-nav a:hover {
   color: var(--accent);
 }
 
-main {
-  padding-bottom: 48px;
+.layout {
+  display: grid;
+  grid-template-columns: 260px 1fr;
+  gap: 16px;
 }
 
 h1, h2, h3 {
@@ -89,6 +91,39 @@ a {
   border-bottom: 1px solid var(--border);
 }
 
+.panel {
+  background: var(--card);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  padding: 16px;
+  box-shadow: 0 1px 0 rgba(0, 0, 0, 0.05);
+}
+
+.content-panel {
+  min-height: 240px;
+}
+
+.panel-title {
+  font-weight: 700;
+  margin-bottom: 8px;
+}
+
+.panel-text {
+  color: var(--muted);
+  font-size: 0.95rem;
+}
+
+.button {
+  display: inline-block;
+  background: var(--accent);
+  color: #ffffff;
+  text-decoration: none;
+  padding: 8px 12px;
+  border-radius: 8px;
+  font-weight: 700;
+  font-size: 0.9rem;
+}
+
 .category-list {
   list-style: none;
   padding: 0;
@@ -113,5 +148,14 @@ img {
 @media (max-width: 640px) {
   .wrap {
     padding: 16px;
+  }
+
+  .layout {
+    grid-template-columns: 1fr;
+  }
+
+  .topbar-inner {
+    flex-direction: column;
+    align-items: flex-start;
   }
 }
