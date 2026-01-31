@@ -1,8 +1,0 @@
----
-title: UptimeRobotによる動作状況ページ
-date: 2021-05-05
-categories: お知らせ
----
-
-[UptimeRobot](https://uptimerobot.com/?rid=fbcfab9671574f)による動作状況ページを皆さんの為に公開していますが、カスタムドメインでの提供が有料になってしまいました。
-当面は https://stats.uptimerobot.com/G91rWs1KKq からご利用下さい。近日中に今までのURL https://uptime.precure.ml からの転送を設定し、使い勝手が今までとほとんど変わらない様にします。

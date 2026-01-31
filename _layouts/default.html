@@ -1,0 +1,24 @@
+<!doctype html>
+<html lang="{{ page.lang | default: site.lang | default: 'ja' }}">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}</title>
+    <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="wrap">
+        <a class="site-title" href="{{ "/" | relative_url }}">{{ site.title }}</a>
+      </div>
+    </header>
+    <main class="wrap">
+      {{ content }}
+    </main>
+    <footer class="site-footer">
+      <div class="wrap">
+        <span>{{ site.title }}</span>
+      </div>
+    </footer>
+  </body>
+</html>

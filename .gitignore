@@ -6,4 +6,6 @@ db.json
 node_modules/
 public/
 .deploy*/
-source/_drafts/*.md
+_site/
+.jekyll-cache/
+.sass-cache/
