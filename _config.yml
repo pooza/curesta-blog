@@ -32,3 +32,5 @@ exclude:
   - _config.hexo.yml
   - source
   - public
+  - README.md
+  - docs
