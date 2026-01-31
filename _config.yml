@@ -8,6 +8,13 @@ baseurl: /curesta-blog
 
 permalink: /articles/:title/
 
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+
 markdown: kramdown
 kramdown:
   input: GFM

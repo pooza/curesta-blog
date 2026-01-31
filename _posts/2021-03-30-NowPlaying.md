@@ -2,7 +2,6 @@
 title: NowPlaying
 date: 2021-03-30
 categories: 機能
-layout: post
 ---
 本来Mastodonにない、多くのナウプレ機能を内蔵しています。
 積極的に曲紹介していきましょう。

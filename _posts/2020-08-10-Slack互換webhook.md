@@ -2,7 +2,6 @@
 title: Slack互換webhook
 date: 2020-08-10
 categories: 機能
-layout: post
 ---
 ボットや自動投稿を作る方の便宜の為、webhookを提供しています。
 仕様上は、Slackの同名機能のサブセットです。簡単なSlackボットなら、既存のものを無改造でキュアスタ！対応にできるかもしれません。

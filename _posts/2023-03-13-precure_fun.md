@@ -2,7 +2,6 @@
 title: precure_funタグ
 date: 2023-03-13
 categories: 新規さん向け
-layout: post
 ---
 全ての公開[キュア！]({{ "/articles/キュア！/" | relative_url }})に含まれる `#precure_fun` タグを、「デフォルトハッシュタグ」と呼んでいます。
 

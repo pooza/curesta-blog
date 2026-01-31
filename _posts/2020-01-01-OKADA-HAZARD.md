@@ -2,7 +2,6 @@
 title: OKADA HAZARD
 date: 2020-01-01
 categories: 作品
-layout: post
 ---
 ## アカウント
 [@奇々浦🍦🦁ヌル夫](https://precure.ml/@nulluo)

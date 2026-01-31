@@ -2,7 +2,6 @@
 title: Rubicure API
 date: 2023-03-13
 categories: ボット
-layout: post
 ---
 ### 互換API
 
