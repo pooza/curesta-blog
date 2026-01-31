@@ -77,6 +77,13 @@ exclude:
 ### CSS
 - `assets/main.css` を作成（このリポジトリの内容を流用）
 
+## 3.5 テーマ（Mastodon風）
+このブログの見た目を流用する場合は、以下をコピーします。
+- `_layouts/default.html`
+- `assets/main.css`
+
+必要に応じて、サイト説明文やナビ項目を変更します。
+
 ## 4. 投稿の移行
 ### 4-1. `source/_posts` → `/_posts`
 - ファイル名を `YYYY-MM-DD-<slug>.md` に変更
