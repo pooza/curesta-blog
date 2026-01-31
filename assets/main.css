@@ -31,11 +31,29 @@ body {
   background: linear-gradient(120deg, #f7efe3, #fff8ed);
 }
 
+.header-inner {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+}
+
 .site-title {
   font-size: 1.5rem;
   color: var(--text);
   text-decoration: none;
   font-weight: 600;
+}
+
+.site-nav a {
+  margin-left: 12px;
+  text-decoration: none;
+  color: var(--muted);
+  font-size: 0.95rem;
+}
+
+.site-nav a:hover {
+  color: var(--accent);
 }
 
 main {
@@ -69,6 +87,16 @@ a {
 .post-list li {
   padding: 10px 0;
   border-bottom: 1px solid var(--border);
+}
+
+.category-list {
+  list-style: none;
+  padding: 0;
+  margin: 0 0 24px 0;
+}
+
+.category-list li {
+  padding: 4px 0;
 }
 
 .site-footer {

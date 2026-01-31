@@ -8,8 +8,12 @@
   </head>
   <body>
     <header class="site-header">
-      <div class="wrap">
+      <div class="wrap header-inner">
         <a class="site-title" href="{{ "/" | relative_url }}">{{ site.title }}</a>
+        <nav class="site-nav">
+          <a href="{{ "/" | relative_url }}">Home</a>
+          <a href="{{ "/categories/" | relative_url }}">カテゴリ</a>
+        </nav>
       </div>
     </header>
     <main class="wrap">
