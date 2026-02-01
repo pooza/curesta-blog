@@ -3,7 +3,7 @@ description: ''
 author: ぷーざ
 lang: ja
 timezone: Asia/Tokyo
-url: https://pooza.github.io
+url: https://blog.precure.ml
 baseurl: /curesta-blog
 
 permalink: /articles/:title/
