@@ -41,8 +41,13 @@ description: ''
 author: <作者>
 lang: ja
 timezone: Asia/Tokyo
+# リポジトリ直下公開の場合
 url: https://<user>.github.io
 baseurl: /<repo>
+#
+# カスタムドメインの場合
+# url: https://example.com
+# baseurl: ""
 
 permalink: /articles/:title/
 
@@ -57,6 +62,10 @@ markdown: kramdown
 kramdown:
   input: GFM
 
+collections:
+  drafts:
+    output: false
+
 exclude:
   - node_modules
   - package.json
@@ -66,6 +75,8 @@ exclude:
   - _config.hexo.yml
   - source
   - public
+  - README.md
+  - docs
 ```
 
 ### レイアウト
@@ -118,6 +129,7 @@ exclude:
 
 ## 8. GitHub Actions
 - `/.github/workflows/pages.yml` を Jekyll ビルドに変更
+- `actions/jekyll-build-pages@v1` で build
 - `dev` では build のみ、`main` で deploy
 
 ## 9. Hexo関連の整理
