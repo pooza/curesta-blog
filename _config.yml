@@ -4,7 +4,7 @@ author: ぷーざ
 lang: ja
 timezone: Asia/Tokyo
 url: https://blog.precure.ml
-baseurl: /curesta-blog
+baseurl: ""
 
 permalink: /articles/:title/
 
