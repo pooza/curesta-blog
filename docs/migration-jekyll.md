@@ -98,6 +98,7 @@ exclude:
 ## 4. 投稿の移行
 ### 4-1. `source/_posts` → `/_posts`
 - ファイル名を `YYYY-MM-DD-<slug>.md` に変更
+- `:title`（スラッグ）は `<slug>` 部分で、URLは `/articles/<slug>/` になる
 - `permalink:` は削除（既存URL維持なら不要）
 - `layout:` は削除（defaults で指定済み）
 
