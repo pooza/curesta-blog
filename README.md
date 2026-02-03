@@ -15,7 +15,6 @@
 - `images/` 画像（`images/<記事名>/...`）
 - `_layouts/` レイアウト
 - `assets/` スタイル等
-- `docs/` 手順書（移行メモなど）
 
 ## 記事の書き方
 ### ファイル名
@@ -69,6 +68,3 @@ bundle install
 ## 注意点
 - `permalink` は原則書かない（`_config.yml` のデフォルトを使う）
 - 既存URL維持が必要なら、`permalink` を残すこと
-
----
-詳しい移行手順は [`docs/migration-jekyll.md`](docs/migration-jekyll.md) を参照。
