@@ -1,10 +1,10 @@
 :root {
-  --bg: #d8dbd6;
-  --text: #2f3230;
-  --muted: #6b716a;
-  --accent: #2ba13a;
-  --card: #f2f3f1;
-  --border: #c4c9c2;
+  --bg: #191b22;
+  --text: #d9e1e8;
+  --muted: #8899a6;
+  --accent: #6364ff;
+  --card: #282c37;
+  --border: #393f4f;
   --max: 1100px;
 }
 
@@ -28,7 +28,7 @@ body {
 
 .topbar {
   border-bottom: 1px solid var(--border);
-  background: #e7e9e5;
+  background: #1f232b;
 }
 
 .topbar-inner {
