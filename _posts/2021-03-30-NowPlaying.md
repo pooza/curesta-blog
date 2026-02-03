@@ -10,11 +10,11 @@ categories: 機能
 
 `#nowplaying ガンバランスdeダンス〜夢みる奇跡たち〜 宮本佳那子`
 
-こんな感じの[キュア！]({{ "/articles/キュア！/" | relative_url }})を入力すると、対応サービスから楽曲を検索し、該当曲に関する情報追記などが行われます。
+こんな感じの[キュア！](/articles/キュア！/)を入力すると、対応サービスから楽曲を検索し、該当曲に関する情報追記などが行われます。
 
 曲名だけの指定でも動作しますが、誤判定が多くなる様です。極力、アーティストを省略せずに指定してください。
 
-![]({{ "/images/NowPlaying/曲名指定.png" | relative_url }})
+![](/images/NowPlaying/曲名指定.png)
 
 ### 対応サービス
 
@@ -25,9 +25,9 @@ categories: 機能
 
 `#nowplaying https://music.apple.com/jp/album//1299587212?i=1299587213`
 
-こんな感じの[キュア！]({{ "/articles/キュア！/" | relative_url }})を入力すると、該当曲に関する情報追記などが行われます。
+こんな感じの[キュア！](/articles/キュア！/)を入力すると、該当曲に関する情報追記などが行われます。
 
-![]({{ "/images/NowPlaying/URL指定.png" | relative_url }})
+![](/images/NowPlaying/URL指定.png)
 
 ### 対応サービス
 
