@@ -11,7 +11,7 @@ date: 2019-12-15
 
 ## 原因
 Google Public DNS（8.8.8.8 / 8.8.4.4）が、トップレベルドメイン .ml 配下のゾーンをキャッシュしなくなりました。
-キュアスタ！のサーバはこのサービスを利用して名前解決を行っている為、[モロヘイヤ](https://github.com/pooza/mulukhiya-toot-proxy)は `precure.ml` を名前解決して、Mastodonのサービスを見つけるということができなくなっていました。
+キュアスタ！のサーバーはこのサービスを利用して名前解決を行っている為、[モロヘイヤ](https://github.com/pooza/mulukhiya-toot-proxy)は `precure.ml` を名前解決して、Mastodonのサービスを見つけるということができなくなっていました。
 キュアスタ！では、すべての[キュア！](/articles/キュア！/)（トゥート）が、最終的にはモロヘイヤを通じて行われる為、ユーザーの全てのトゥートが影響を受けました。
 
 根本原因である、Google Public DNSが `precure.ml` を名前解決しない件は、12/15現在も未解決。
@@ -23,7 +23,7 @@ Google Public DNS（8.8.8.8 / 8.8.4.4）が、トップレベルドメイン .ml
 nameserver 1.1.1.1
 nameserver 1.0.0.1
 ```
-これらのネームサーバは、CloudFlareのパブリックDNS。
+これらのネームサーバーは、CloudFlareのパブリックDNS。
 
 
 ## 今後の対応
